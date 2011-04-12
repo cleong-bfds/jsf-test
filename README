@@ -1,1 +1,5 @@
-This is a test readme file.
+This is a test readme file for the jsf-test project.
+
+The jsf-test project contains a source (src) folder and
+a web (WebContent) folder.
+
